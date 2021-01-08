@@ -1,0 +1,8 @@
+com/company/Main.java
+ com.company.Main
+ com.company.Main$1
+ com.company.Main$2
+ com.company.Main$3
+ com.company.Main$4
+com/company/Masina.java
+ com.company.Masina
